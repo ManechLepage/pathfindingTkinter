@@ -1,0 +1,13 @@
+X Main grid
+ X Show grid
+ X Click detection
+- Generate path button
+ - Animation?
+- Add dikstra
+- Add a*
+- Algorithm button
+- Reset button
+- File menu?
+ - Change grid size
+ - Change to node mode
+ - Change mode (add arrows, etc.)
